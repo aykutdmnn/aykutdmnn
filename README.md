@@ -32,8 +32,6 @@ I work for clean code, careful design, and those small details that make softwar
 
 ---
 
-## What I Build
-
 <div align="center">
 
 <img src="assets/build.svg" alt="Frontend, Backend, Data, DevOps" width="100%">
