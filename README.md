@@ -12,7 +12,7 @@
 
 ## About
 
-I turn ideas into fast, reliable web products. Clean code, thoughtful design, and the small details that make software feel right.
+I work for clean code, careful design, and those small details that make software feel exactly the way it should.
 
 ---
 
