@@ -42,6 +42,6 @@ I work for clean code, careful design, and those small details that make softwar
 
 <div align="center">
 
-*Build clean. Ship steady.*
+*Build clean.*
 
 </div>
