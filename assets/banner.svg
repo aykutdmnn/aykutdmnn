@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="aykutwas - Full-Stack Developer">
+  <rect width="900" height="220" rx="12" fill="#0a0a0a"/>
+  <rect x="10" y="10" width="880" height="200" rx="8" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
+  <path d="M40 60 V40 H60 M840 40 H860 V60 M860 160 V180 H840 M60 180 H40 V160" fill="none" stroke="#ffffff" stroke-opacity="0.7" stroke-width="1.5"/>
+  <text x="450" y="78" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" letter-spacing="6" fill="#ffffff" fill-opacity="0.55">WEB / BACKEND / FRONTEND</text>
+  <text x="450" y="130" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">aykutwas</text>
+  <line x1="390" y1="148" x2="510" y2="148" stroke="#ffffff" stroke-opacity="0.5"/>
+  <text x="450" y="174" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" letter-spacing="4" fill="#ffffff" fill-opacity="0.75">FULL-STACK DEVELOPER</text>
+</svg>
