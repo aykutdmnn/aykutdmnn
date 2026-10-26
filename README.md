@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="aykutwas - Full-Stack Developer" width="100%">
-
-<br>
-
 <a href="https://discord.com/users/881391335268032514"><img src="https://img.shields.io/badge/DISCORD-@aykutwas-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
 </div>
